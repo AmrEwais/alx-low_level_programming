@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Point
- * Description: Write a program that prints all possible different combinations of two digits
+ * Description: combinations of two digits
  * Return: 0
  */
 
