@@ -1,7 +1,11 @@
 #include"main.h"
-/*
- * this code to print_alphabet
+
+/**
+ * print_alphabet() - Entry point
+ * Description: this code to print alphabet
+ * Return: void
 */
+
 void print_alphabet(void)
 {
 	char letter = 'a';
