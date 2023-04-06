@@ -17,7 +17,7 @@ int get_ans(int a, int b)
 }
 
 /**
-* is_prime_number - function that returns 1 if the input integer is a prime number, otherwise return 0.
+* is_prime_number - function that get 1 if the input is a prime number, else 0.
 * @n:input nmp
 * Return: 1 or 0
 */
