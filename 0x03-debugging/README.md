@@ -1,6 +1,6 @@
 # ****0x03. C - Debugging****
 
-# **General**
+## General
 
 - What is debugging?
     - Debugging is the process of finding and fixing errors, or bugs, in a program
@@ -10,8 +10,11 @@
     - Reviewing the code for logic errors and syntax mistakes
 - How to read the error messages?
     - Error messages usually provide information about the type of error that occurred, the line of code where the error occurred, and sometimes a description of the error.
+## visualisation
 
-# **Tasks**
+![image](https://user-images.githubusercontent.com/93448793/230680950-c4c588d5-75c1-443b-9c5e-605a145a91b6.png)
+
+## Tasks
 
 - <a href="./0-main.c">0. Multiple mains</a>
 - <a href="./1-main.c">1. Like, comment, subscribe</a>
